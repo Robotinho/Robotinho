@@ -1,0 +1,8 @@
+Séance du 10/12/18
+
+Aujourd'hui, nous avons travaillé en groupe avec Hansi pour bien se mettre les idées au clair sur l'avancement du projet. 
+Nous avons rédigé le cahier des charges ainsi que le diagramme de Gantt (qui seront joints), et nous avons réfléchi aux problématiques de notre sujet.
+Nous avons appris que le piston n'était pas une solution pour le système de tir, donc nous avons cherché une solution alternative. Les servomoteurs n'ont pas forcément une grande puissance, mais si on veut plus tard mettre en place un deuxième robot "gardien", il faut avoir le temps de le diriger pour arrêter la balle.
+L'enseignant nous a également parlé d'une méthode avec un élastique qui esttedu puis lâché. Nous avons nous eu l'idée de créer un piston à partir de deux servomoteurs qui poussent une planche qui elle même pousserait le ballon contrôlé entre des "bras" (pas forcément articulés).
+Nous allons nous rendre en fin de semaine au FabLab afin de mettre en place un premier chassis pour le robot joueur, ainsi qu'une petite maquette pour notre modèle de piston.
+Nous avons essayé de tester la puissance de deux servomoteurs sur une balle de golf, mais nous avons rencontré beaucoup de problèmes de téléversement. 
