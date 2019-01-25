@@ -1,8 +1,18 @@
+
 Séance du 10 décembre 2018:
-Aujourd'hui nous avons commencé par chercher des exemples de projets correspondant au nôtre et c'est ainsi que je suis tombé sur le page https://www.instructables.com/id/The-Soccer-Robot/.
-Celle-ci pourra nous être très utile car elle contient la trame d'un projet quasi identique à celui que l'on cherche à réaliser.
-Ainsi notre robot ressemblera sûrement à celui-ci:"https://cdn.instructables.com/F5V/AESV/IHBDERE4/F5VAESVIHBDERE4.LARGE.jpg"
-Ensuite l'enseignant nous à permis de réaliser que l'utilisation d'un piston ne sera pas possible dans notre projet.
-Nous avons donc décidé que nous allions en "créer" un à l'aide de deux servomoteurs.
-Celà reste cependant compliqué car les servomoteurs tournent assez lentement.
-Par la suite, j'ai réalisé nos premières versions de cahiers des charges et de diagramme de Gantt.(voir pièces jointes)
+Aujourd'hui nous avons commencé par chercher des exemples de projets correspondant au nôtre et c'est ainsi que je suis tombé sur le page https://www.instructables.com/id/The-Soccer-Robot/.Celle-ci pourra nous être très utile car elle contient la trame d'un projet quasi identique à celui que l'on cherche à réaliser. Ainsi notre robot ressemblera sûrement à celui-ci:https://cdn.instructables.com/F5V/AESV/IHBDERE4/F5VAESVIHBDERE4.LARGE.jpg  Ensuite l'enseignant nous à permis de réaliser que l'utilisation d'un piston ne sera pas possible dans notre projet. Nous avons donc décidé que nous allions en "créer" un à l'aide de deux servomoteurs. Cela reste cependant compliqué car les servomoteurs tournent assez lentement. Par la suite, j'ai réalisé nos premières versions de cahiers des charges et de diagramme de Gantt.(voir pièces jointes)
+Séance du 17 décembre 2018:
+Préambule :
+Avant cette séance , les problèmes auxquels nous devons faire face sont les suivants :
+-on ne peut pas brancher deux servomoteurs sur un même arduino(manque de tension)
+-on doit trouver quel type de châssis on va utiliser
+Corps de la séance :
+Nous avons aujourd'hui continué nos recherches d'un système de tir optimal. Ayant remarqué que nous ne parvenions pas à faire fonctionner 2 servomoteurs sur une seule carte arduino. Nous avons décidé de n'en prendre qu'un mais de lui ajouter un "pied" afin de booster sa puissance de frappe par effet de levier :
+.
+On s'est rendu compte que la construction du châssis par nous-même est difficile donc nous avons récupéré un châssis déjà fait par le professeur :
+ 
+ La problématique qui nous a préoccupé les deux dernières séances a en majorité été le fait que nous ne pouvons pas brancher deux servomoteurs sur la même carte arduino car on manquerait alors d'alimentation. Nous allons donc les raccordé à un système de 4 piles produisant 1.5V chacune ce qui devrait résoudre notre souci.
+Séance du 7 janvier 2019:
+Aujourd’hui, nous avons déterminé que la solution à notre problème concernant les servomoteurs se trouvait dans la mise en place d’une « extension » de notre carte arduino qui nous permettra d’alimenter tous les éléments reliés à celle-ci directement avec les 6.5 volts des piles.
+Séance du 14 Janvier 2019:
+Nous avons réussi à mettre en place l’extension de la carte et avons pu faire fonctionner les deux servomoteurs en même temps. Grand succès!!
