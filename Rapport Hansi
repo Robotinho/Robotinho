@@ -16,3 +16,7 @@ Séance du 7 janvier 2019:
 Aujourd’hui, nous avons déterminé que la solution à notre problème concernant les servomoteurs se trouvait dans la mise en place d’une « extension » de notre carte arduino qui nous permettra d’alimenter tous les éléments reliés à celle-ci directement avec les 6.5 volts des piles.
 Séance du 14 Janvier 2019:
 Nous avons réussi à mettre en place l’extension de la carte et avons pu faire fonctionner les deux servomoteurs en même temps. Grand succès!!
+Séance 4 février 2019:
+Aujourd'hui, petit souci rencontré avec la mise en place du laser,celui-ci ne semble pas détecter la présence du laser. Heureusement, nous avons 
+réussi à le faire fonctionner gràce à l'aide de l'enseignant. J'ai donc réalisé le branchement et Maxime c'est occupé du software en mettant au
+un programme ingénueux permettant de compter le ombre de buts.
