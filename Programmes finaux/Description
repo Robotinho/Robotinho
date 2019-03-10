@@ -1,0 +1,3 @@
+Voici les programmes permettant de faire fonctionner notre projet pour le rendu final le 11/03/19.
+Comme nous utilisons deux cartes, il y a deux programmes finaux correspondant aux deux dossiers : Robotinho et Cages.
+Chacun de ces deux programmes est accompagné de programmes "tests" permettant de tester des parties du code indépendamment du reste (exemple : faire fonctionner seulement les moteurs).
